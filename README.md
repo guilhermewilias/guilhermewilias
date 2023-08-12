@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 Estudando ciencias da computação 
+- 🌱 Estudando ciencias da computação
+- 💻 Estagiário Back-End
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermewilias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermewilias&layout=compact&langs_count=7&theme=dark"/>
