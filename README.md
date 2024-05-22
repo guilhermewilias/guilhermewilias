@@ -3,7 +3,7 @@
 - 💻 Studying computer science
 - 💻 Software development intern at SPI
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermewilias&layout=compact&langs_count=7&theme=yeblu"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermewilias&layout=compact&langs_count=7&theme=yeblu"/>
   <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermewilias&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true&layout=compact"/>--!>
 
   
