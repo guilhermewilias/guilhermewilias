@@ -2,9 +2,7 @@
 
 - 💻 Studying computer science
 - 💻 Software development intern at SPI
-<div>
-   - <img height="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-</div>
+- <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <br>
 
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermewilias&layout=compact&langs_count=7&theme=yeblu"/>
