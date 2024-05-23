@@ -3,7 +3,7 @@
 - 💻 Studying computer science
 - 💻 Software development intern at SPI
 <div>
-   - <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+   - <img height="20em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 </div>
 <br>
 
